@@ -1,0 +1,19 @@
+{
+    "name": "transaction",
+    "id": "b4fd93fd-4980-41b8-91c1-5144bcd44a9c",
+    "_postman_variable_scope": "environment",
+    "_postman_exported_at": "2023-04-27T00:02:49.169Z",
+    "_postman_exported_using": "Thunder Client",
+    "values": [
+        {
+            "key": "base_url",
+            "value": "http://127.0.0.1:8000/api",
+            "enabled": true
+        },
+        {
+            "key": "token",
+            "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vMTI3LjAuMC4xOjgwMDAvYXBpL2F1dGgvbG9naW4iLCJpYXQiOjE2ODI1NTE4NzQsImV4cCI6MTY4MjU1NTQ3NCwibmJmIjoxNjgyNTUxODc0LCJqdGkiOiJaOWwxTk00NG9jNktacHZLIiwic3ViIjoiMiIsInBydiI6IjFkMGEwMjBhY2Y1YzRiNmM0OTc5ODlkZjFhYmYwZmJkNGU4YzhkNjMifQ.EOHLwu0dC9CzQ3DAQBJKlJclCgNgQrO91cZeLQMkljs",
+            "enabled": true
+        }
+    ]
+}
